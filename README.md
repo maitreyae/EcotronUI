@@ -1,2 +1,3 @@
 # EcotronUI
-link: https://maitreyae.github.io/EcotronUI/
+github link: https://maitreyae.github.io/EcotronUI/
+Site link: https://ecotron.netlify.app/
